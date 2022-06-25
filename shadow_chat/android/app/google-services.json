@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "943751917368",
+    "project_id": "shadow-chat-2efba",
+    "storage_bucket": "shadow-chat-2efba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943751917368:android:dd59f1bff9228289c19bcd",
+        "android_client_info": {
+          "package_name": "Shadow.Chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943751917368-net5hk9fjc69jrec4341rl256cm7s9a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Shadow.Chat.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "943751917368-u7i7ro47dfcbh2lv5kpud44ech5k80o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABaQhmAjn450YbH92KdD-Pl78S3c1l_XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943751917368-u7i7ro47dfcbh2lv5kpud44ech5k80o1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943751917368-1fb1i9geb73cq14pht5mkmnf32bplakk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Shadow.Chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
